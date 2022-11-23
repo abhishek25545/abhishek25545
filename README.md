@@ -20,7 +20,8 @@ Bachelor of Engineering in Information Science & Technology at N.M.A.M Institute
 
 ## Communities :dancers:
 - Web Development Intern at [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/) 
-
+- Machine learning Intern at [YBI Foundation](https://www.ybifoundation.org/)
+- Techinal content developer intern at [cantilever labs private limited](https://www.cantileverlabs.com/ )
 ## Technologies :fire:
 - HTML.
 - CSS.
